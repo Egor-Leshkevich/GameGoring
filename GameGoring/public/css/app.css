@@ -1,0 +1,54 @@
+
+
+body {
+
+	background-image: url(/images/bea.png?64d8d63224fa339bca90c4aa246d630d);
+	background-size:150%,auto;
+
+
+
+}
+
+
+
+.d1 input {
+	padding: 10px;
+	margin-top: 2%;
+	margin-left: 30%;
+	width: 50%;
+	background: #48323a;
+
+}
+.d1 button {
+	padding: 10px;
+}
+
+#inp {
+	color:#c1aebb;
+}
+
+#result{
+
+  padding-left: 7px;
+	background-color: #ab8794;
+	font-size: 13pt;
+	font-weight: 500;
+	color: black;
+}
+#header-name{
+	font-size:24pt;
+	font-weight:normal;
+	color: black;
+  text-decoration: none;
+}
+#header-name:hover{
+  border-bottom: 1px groove black;
+  font-style: oblique;
+}
+
+#link {
+	color: #FFB6C1;
+	font-weight: 450;
+	font-style: oblique;
+	text-decoration: underline;
+}
